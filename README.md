@@ -1,4 +1,2 @@
-# wx-bike
-wx bike
-wx bike demo
+bike demo
 10/20 first commit; no update
